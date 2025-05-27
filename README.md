@@ -52,7 +52,7 @@ WorkforceEngagementPrediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WorkforceEngagementPrediction.git
+git clone https://github.com/yaswanth33-ui/WorkForceEngagementPrediction.git
 cd WorkforceEngagementPrediction
 ```
 
