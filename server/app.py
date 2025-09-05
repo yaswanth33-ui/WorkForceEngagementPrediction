@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
-from utils import predict_single_employee
+from .utils import predict_single_employee
 
 app = Flask(__name__)
 
