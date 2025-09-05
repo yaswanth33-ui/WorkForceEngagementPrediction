@@ -1,0 +1,10 @@
+Flask
+flask-cors
+Jinja2
+scikit-learn
+lightgbm
+xgboost
+pandas
+numpy
+joblib
+waitress
